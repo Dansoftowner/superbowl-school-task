@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperBowl", "SuperBowl\SuperBowl.csproj", "{A9AA73EB-9B83-448A-A8F9-0B02FF776332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperBowl", "SuperBowl\SuperBowl.csproj", "{A9AA73EB-9B83-448A-A8F9-0B02FF776332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperBowlGUI", "SuperBowlGUI\SuperBowlGUI.csproj", "{CE406FB2-477C-4811-A3EF-1AEBF48BBE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperBowlGUI", "SuperBowlGUI\SuperBowlGUI.csproj", "{CE406FB2-477C-4811-A3EF-1AEBF48BBE25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B51945C8-6281-4ECB-AC84-4ADCB9DC33A2}"
+	ProjectSection(SolutionItems) = preProject
+		..\Super_Bowl.pdf = ..\Super_Bowl.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
